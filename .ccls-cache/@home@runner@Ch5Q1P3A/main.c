@@ -1,4 +1,4 @@
-// program to generate the first 200 triangular numbers.
+// program to generate a table of triangular numbers.
 
 #include <stdio.h>
 
